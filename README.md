@@ -42,10 +42,6 @@
 ---
 
 
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jasminvarvadiya-gif&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasminvarvadiya-gif&layout=compact&theme=default&hide_border=true" />
-</p>
 
 ---
 
